@@ -1,1 +1,9 @@
-remote_theme: contributorcoin/jekyll-docs-template@v0.1.1
+remote_theme: contributorcoin/jekyll-docs-template@v0.1.2
+
+title: Contributorcoin Whitepaper
+description: The source of information about the open-source cryptocurrency
+show_downloads: true
+show_gh_edit: true
+show_toc: true
+google_analytics:
+toc_title: 
